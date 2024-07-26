@@ -120,4 +120,4 @@ erDiagram
 6th query: Select detailed information about a movie [6_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/6_select_detailed_info_for_a_certain_movie.sql)
 
 ### Data
-I just added a file with a sql script to insert data for testing just in case you use it.
+I just added a file with a sql script to insert data for testing, just in case you use it.
