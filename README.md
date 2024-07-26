@@ -1,7 +1,7 @@
 # Homework JS DB-SQL
 ### Mermaid ER Diagram
 
-```
+```mermaid
 erDiagram
     Users ||--o| Files : "has avatar"
     Users {
