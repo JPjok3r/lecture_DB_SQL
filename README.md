@@ -111,3 +111,13 @@ erDiagram
   
 ```
 
+### Queries
+1st query: Select actors with total budget [1_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/1_select_actors_w_budget.sql)
+2nd query: Select movies released in the last 5 years [2_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/2_select_movies_released_5yago.sql)
+3rd query: Select all users along with their favorite movies [3_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/3_select_users_w_favorites.sql)
+4th query: Select directors with average budget of their movies [4_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/4_select_directors_w_avg_budget.sql)
+5th query: Select detailed information about movies [5_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/5_select_movie_detailed_info.sql)
+6th query: Select detailed information about a movie [6_query](https://github.com/JPjok3r/lecture_DB_SQL/blob/main/6_select_detailed_info_for_a_certain_movie.sql)
+
+### Data
+I just added a file with a sql script to insert data for testing just in case you use it.
